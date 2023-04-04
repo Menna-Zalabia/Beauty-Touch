@@ -49,9 +49,6 @@ a:hover {
   color: #000;
   transform: scale(1.1, 1.1);
 }
-.home{
-  margin-top: -10px;
-}
 .home h2{
   font-size: 35px;
   line-height: 55px;
